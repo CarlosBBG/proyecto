@@ -29,6 +29,13 @@
   text-align: center;
 }
 
+.paradas-contenedor h1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #001f5b;
+  margin-bottom: 20px;
+}
+
 .parada {
   background-color: #c5b6e0;
   border-radius: 8px;
@@ -75,6 +82,7 @@
   width: 600px;
   height: 450px;
   border: 0;
+  margin-top: 10px;
 }
 
 /* Ajustes para pantallas medianas */
