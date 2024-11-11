@@ -2,7 +2,7 @@ import React from 'react';
 import Encabezado from './Componentes/Encabezado';
 import ConductorMenu from './Componentes/ConductorMenu';
 import ConductorRutaInicio from './Componentes/ConductorRutaInicio';
-import ConductorRutaCheck from './Componentes/ConductorRutaCheck';
+import ConductorRutaCheck from './Componentes/ConductorRutaCheck'; 
 import './App.css';
 
 // Opciones de menú para ConductorMenu
